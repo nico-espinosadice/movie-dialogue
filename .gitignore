@@ -1,5 +1,9 @@
 /data
+<<<<<<< HEAD
 /temp.ipynb
+=======
+.DS_Store
+>>>>>>> faed4282a65b4e5fe748fc24927d4cd91eb87785
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
