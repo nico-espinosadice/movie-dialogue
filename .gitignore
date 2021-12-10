@@ -1,4 +1,5 @@
 /data
+/data_processed
 /temp.ipynb
 .DS_Store
 
